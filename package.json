@@ -1,0 +1,25 @@
+{
+  "name": "prs",
+  "version": "1.0.0",
+  "description": "\"# HelixAI-PRs\"",
+  "main": "grind-prs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MxIDzzl/HelixAI-PRs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MxIDzzl/HelixAI-PRs/issues"
+  },
+  "homepage": "https://github.com/MxIDzzl/HelixAI-PRs#readme",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "jsonfile": "^6.2.0",
+    "simple-git": "^3.30.0"
+  }
+}
